@@ -1,0 +1,17 @@
+{
+  "name": "resumee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "*.*",
+    "nodemon": "*.*"
+  },
+  "scripts": {
+    "test": "nodemon server.js -w /custom_modules -w /package.json -w /server.js -e html,json,css,js",
+    "start": "nodemon server.js -w /custom_modules -w /package.json -w /server.js -e html,json,css,js"
+  },
+  "author": "",
+  "repository": "",
+  "license": "ISC"
+}

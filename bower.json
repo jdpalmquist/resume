@@ -1,0 +1,17 @@
+{
+  "name": "resumee",
+  "version": "1.0.0",
+  "main": "path/to/main.css",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "jquery": "*.*",
+    "bootstrap": "*.*",
+    "font-awesome": "*.*",
+    "moment": "*.*",
+    "requirejs": "*.*",
+    "simple-peer": "*.*"
+  }
+}
