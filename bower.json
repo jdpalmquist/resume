@@ -7,11 +7,14 @@
     "**/*.txt"
   ],
   "dependencies": {
-    "jquery": "*.*",
     "bootstrap": "*.*",
     "font-awesome": "*.*",
+    "impress.js": "*.*",
+    "jquery": "*.*",
     "moment": "*.*",
     "requirejs": "*.*",
-    "simple-peer": "*.*"
+    "simple-peer": "*.*",
+    "threejs": "",
+    "voxel.css": "*.*"
   }
 }
